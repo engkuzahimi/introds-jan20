@@ -1,9 +1,9 @@
 # introds-jan20
-Data Science project required by my University during taking Introduction to Data Science course during January 2020 Semester. 
-This project is made with my friends, @iiilhamk , @iqbalnuryl, @ahmdalfaff
+Data Science project required by my University while taking Introduction to Data Science course during January 2020 Semester. 
+This project was made with my friends, @iiilhamk , @iqbalnuryl, @ahmdalfaff
 
 # Data  
-The dataset is taken from Kaggle (https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings)
+The dataset was taken from Kaggle (https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings)
 
 # About the Project
 This project aims to do some analysis based on Games Sales data from 1985-2020 and helps publishers to make better decisions on where to 
